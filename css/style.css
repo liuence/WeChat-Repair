@@ -1,0 +1,6 @@
+.profile-image {
+-webkit-border-radius: 100%;
+-moz-border-radius: 100%;
+border-radius: 100%;        
+}
+.ui-page { -webkit-backface-visibility: hidden; }   

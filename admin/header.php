@@ -1,0 +1,1 @@
+<a href="admin-index.php">数据统计</a> |<a href="admin-table.php">报修管理</a>|<a href="admin-user.php">用户管理</a>|<a href="admin-admin.php">添加账号</a>|<a href="admin-role.php">账号管理</a>|<a href="admin-worker.php">添加维修工</a>|<a href="admin-workerlist.php">维修工管理</a>                      

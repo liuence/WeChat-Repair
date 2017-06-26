@@ -1,0 +1,1 @@
+<a href="admin-index.php">数据统计</a> |<a href="admin-table.php">报修管理</a>|<a href="admin-user.php">用户管理</a>              
